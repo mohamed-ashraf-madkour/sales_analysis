@@ -78,12 +78,6 @@ Improve retention strategies for low-engagement segments
 🚚 Shipping Insights
 Optimize slow delivery ship modes to improve customer satisfaction
 Reduce return rate by analyzing problematic categories
-🎯 Business Recommendations
-Increase investment in high-profit categories
-Re-evaluate pricing strategy for low-margin products
-Optimize shipping methods based on delivery performance
-Focus on customer segmentation for targeted marketing
-Improve supply chain efficiency to reduce returns
 -------------------------------------------------------------------------------------------------------------------------------------
 📷 Dashboard Preview
 
