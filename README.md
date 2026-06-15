@@ -12,13 +12,8 @@ Overview
 Performance Analysis
 Profitability Analysis
 Shipping Analysis
-🛠️ Tools & Technologies
-📊 Tableau / Power BI (Data Visualization)
-🗄️ SQL (Data Cleaning & Aggregation)
-📁 Excel / CSV (Raw Data Source)
-📈 DAX / Calculated Fields (KPIs & Metrics)
-📂 Dashboard Pages
-1️⃣ Overview Dashboard
+
+-------------------------------------------------------------------------------------------------------------------------------------
 🎯 KPIs
 Total Sales
 Total Profit
