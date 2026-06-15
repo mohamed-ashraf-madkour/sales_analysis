@@ -92,13 +92,13 @@ Improve supply chain efficiency to reduce returns
 -------------------------------------------------------------------------------------------------------------------------------------
 📷 Dashboard Preview
 
-![OverView Dashboard](snapshots/sales_overview.png)
+![OverView Dashboard](snapshot/sales_overview.png)
 
-![performance Dashboard](snapshots/performance.png)
+![performance Dashboard](snapshot/performance.png)
 
-![profitability Dashboard](snapshots/sales_profitability.png)
+![profitability Dashboard](snapshot/sales_profitability.png)
 
-![shipping Dashboard](snapshots/sales_shipping.png)
+![shipping Dashboard](snapshot/sales_shipping.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 Project Goal
